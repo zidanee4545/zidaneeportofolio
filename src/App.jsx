@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1><span className="neon">My Portfolio</span></h1>
+        <h1><span className="neon">Zidane Portfolio</span></h1>
         <nav>
           <ul>
             <li><a href="#about">About</a></li>
@@ -36,11 +36,11 @@ function App() {
 
       <section id="contact">
         <h2 className="neon">Contact</h2>
-        <p>Feel free to reach out via <a href="mailto:you@example.com">email</a> or find me on <a href="https://linkedin.com">LinkedIn</a>.</p>
+        <p>Feel free to reach out via <a href="zidanbriliant12@gmail.com">email</a> or find me on <a href="https://linkedin.com">LinkedIn</a>.</p>
       </section>
 
       <footer>
-        <p>&copy; 2025 Your Name</p>
+        <p>&copy; 2025 Zidane Fernandez</p>
       </footer>
     </div>
   );
